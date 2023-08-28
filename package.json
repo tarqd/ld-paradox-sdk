@@ -1,6 +1,6 @@
 {
   "name": "ld-paradox-browser-sdk",
-  "version": "1.0.0",
+  "version": "8.2.2",
   "description": "Unofficial LaunchDarkly Server-Side SDK for browsers",
   "main": "index.js",
   "browser": "browser.js",
