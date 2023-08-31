@@ -1,6 +1,6 @@
 [submodule "crypto-browserify"]
 	path = crypto-browserify
-	url = git@github.com:tarqd/crypto-browserify.git
+	url = https://github.com/tarqd/crypto-browserify.git
 [submodule "os-browserify"]
 	path = os-browserify
-	url = git@github.com:tarqd/os-browserify.git
+	url = https://github.com/tarqd/os-browserify.git
