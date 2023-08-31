@@ -6,6 +6,7 @@
   "browser": "browser.js",
   "source": "index.js",
   "targets": {
+    "example": { "source": "./examples/index.html" },
     "browser": {
     "includeNodeModules": true,
     "isLibrary": true
