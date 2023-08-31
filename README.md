@@ -12,9 +12,11 @@ The node-server-sdk is bundled with parcel with a couple of custom polyfills. In
 - os: patched to provide version function that returns undefined
 
 # Running the example
-First clone the repo
+First clone the repo and it's submodules
 ```
 git clone https://github.com/tarqd/ld-paradox-sdk.git
+cd ld-paradox-sdk
+git submodule update --init --recursive
 ```
 Then install the dependencies
 ```
